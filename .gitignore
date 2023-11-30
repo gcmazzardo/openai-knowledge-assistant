@@ -1,0 +1,4 @@
+.env
+assistant.json
+venv/
+__pycache__/
