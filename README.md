@@ -1,4 +1,4 @@
-# whatsapp-bot
+# openai-knowledge-assistant
 
 ## Requirements
 
@@ -7,7 +7,7 @@
 
 ## 1. Setup
 
-### 1.1 Creating Flask virtualenv
+### 1.1 Creating Python virtualenv
 
 (only needed first time)
 
@@ -15,7 +15,7 @@
   $ python3 -m venv venv
 ```
 
-### 1.2 Activating Flask virtualenv
+### 1.2 Activating Python virtualenv
 
 ```sh
   $ source venv/bin/activate
